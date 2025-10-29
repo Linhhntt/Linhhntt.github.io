@@ -1,0 +1,227 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Nguyen Thi Thuy Linh — Researcher & Backend Developer</title>
+  <meta name="description" content="Nguyen Thi Thuy Linh — Backend developer and researcher specializing in cloud computing, microservices and security." />
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="styles.css">
+
+  <!-- Favicons (simple) -->
+  <meta name="theme-color" content="#0b1220"/>
+</head>
+
+<body>
+  <div id="wrap" class="theme-auto">
+    <!-- left column -->
+    <aside id="left" class="fade-in-left">
+      <div class="avatar">
+        <!-- placeholder circle avatar; you can replace with your photo -->
+        <div class="circle">LT</div>
+      </div>
+
+      <h1 class="name">Nguyen Thi Thuy Linh</h1>
+      <p class="role">Backend Developer · Researcher</p>
+
+      <nav class="nav">
+        <a href="#about">About</a>
+        <a href="#experience">Experience</a>
+        <a href="#research">Research</a>
+        <a href="#projects">Projects</a>
+        <a href="#skills">Skills</a>
+        <a href="#contact">Contact</a>
+      </nav>
+
+      <div class="meta">
+        <a class="link" href="https://github.com/clientcli" target="_blank" rel="noopener">github</a>
+        <a class="link" href="https://www.linkedin.com/in/thi-thuy-linh-nguyen-5294431a0/" target="_blank" rel="noopener">linkedin</a>
+        <a class="link" href="mailto:linhntt.unitn@gmail.com">email</a>
+      </div>
+
+      <div class="copyright">© 2025 Linh</div>
+    </aside>
+
+    <!-- main column -->
+    <main id="main" class="fade-in-up">
+      <section id="hero" class="hero">
+        <div class="intro-lines">
+          <div class="eyebrow">Hi — I’m</div>
+          <h2 class="hero-title">Nguyen Thi Thuy Linh</h2>
+          <div class="hero-sub">
+            <span id="typed"></span>
+          </div>
+          <p class="summary">
+            I design and build secure, scalable distributed systems — bridging academic research and real-world engineering.
+            Currently a <strong>Junior Researcher</strong> at the University of Trento (Italy).
+          </p>
+          <div class="cta">
+            <a href="#projects" class="btn">Featured projects</a>
+            <a href="Linh_CV.pdf" class="btn ghost" download>Download CV</a>
+          </div>
+        </div>
+      </section>
+
+      <section id="about" class="section">
+        <h3 class="section-title">About</h3>
+        <p>
+          Backend developer and researcher specializing in cloud computing, microservices, and security. Passionate about designing scalable,
+          secure distributed systems from scratch. Work spans container security (seccomp), eBPF observability, federated learning for anomaly
+          detection, and blockchain-based verifiable computation.
+        </p>
+
+        <div class="two-col">
+          <div>
+            <h4>Education</h4>
+            <ul>
+              <li><strong>M.S.</strong> Information & Telecommunication, Soongsil University — 2022–2024</li>
+              <li><strong>B.S.</strong> Electronic & Telecommunication, Hanoi University of Science & Technology — 2016–2021</li>
+            </ul>
+          </div>
+          <div>
+            <h4>Contact</h4>
+            <ul>
+              <li>Email: <a href="mailto:linhntt.unitn@gmail.com">linhntt.unitn@gmail.com</a></li>
+              <li>Phone: +39-344-626-4074</li>
+              <li>Location: Trento, Italy</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <section id="experience" class="section">
+        <h3 class="section-title">Experience</h3>
+
+        <article class="job">
+          <h4>Junior Researcher — University of Trento</h4>
+          <span class="muted">Jan 2025 — Present · Trento, Italy</span>
+          <ul>
+            <li>Collect, set up, and deploy CTF challenges on Kubernetes for UniTrento students.</li>
+            <li>Survey microservice security (attacks, data protection, eBPF, AI-based solutions) from 2019–2025.</li>
+            <li>Research on blockchain for verifiable computation with ZKPs in microservices.</li>
+          </ul>
+        </article>
+
+        <article class="job">
+          <h4>R&D Engineer — Softfreak</h4>
+          <span class="muted">Jan 2024 — Jan 2025 · Seoul, South Korea</span>
+          <ul>
+            <li>Built API Management Security Platform integrated with MyData Korea.</li>
+            <li>Designed core backend/frontend interaction, developed Nginx/eBPF/mirroring agents, analytics engines with Kafka.</li>
+            <li>Benchmarking with JMeter for 10,000 concurrent users.</li>
+            <li><a href="https://github.com/clientcli/API-Security-Platform" target="_blank" rel="noopener">API-Security-Platform (repo)</a></li>
+          </ul>
+        </article>
+
+        <article class="job">
+          <h4>Research Assistant — Soongsil University</h4>
+          <span class="muted">Mar 2022 — Dec 2023 · Seoul, South Korea</span>
+          <ul>
+            <li>Host-based IDS for containers (LSTM models). Published at MobiSec 2023.</li>
+            <li>Seccomp profile generator prototype — MobiSec 2022.</li>
+            <li>Federated learning balancing (TL-SMOTE) — CUTE-CSA 2022.</li>
+          </ul>
+        </article>
+
+        <article class="job">
+          <h4>Backend Engineer — Ginnovations</h4>
+          <span class="muted">Aug 2018 — Feb 2022 · Hanoi, Vietnam</span>
+          <ul>
+            <li>MQTT security, E2E protocol, mobile sync via audio signals, ELK monitoring.</li>
+          </ul>
+        </article>
+      </section>
+
+      <section id="research" class="section">
+        <h3 class="section-title">Publications & Research</h3>
+
+        <ol class="pubs">
+          <li>
+            <strong>Improving Host-based Intrusion Detection by Enhanced Contextual Information in Containers</strong>
+            — MobiSec 2023.
+            <a href="https://www.manuscriptlink.com/society/kiisc/media?key=kiisc/conference/mobisec2023/9A-1.pdf" target="_blank" rel="noopener">PDF</a>
+          </li>
+
+          <li>
+            <strong>Refining Seccomp Security Profile for Container Hardening</strong>
+            — MobiSec 2022.
+            <a href="https://doi.org/10.1007/978-981-99-1252-0_2" target="_blank" rel="noopener">DOI</a>
+          </li>
+
+          <li>
+            <strong>TL-SMOTE: Re-balancing Data in Federated Learning for Anomaly Detection</strong>
+            — CUTE-CSA 2022.
+          </li>
+
+          <li>
+            <strong>Data Hiding in Bit-plane Medical Image Using Chaos-based Steganography</strong>
+            — IEEE MAPR 2021.
+            <a href="https://ieeexplore.ieee.org/document/9585243" target="_blank" rel="noopener">IEEE</a>
+          </li>
+        </ol>
+      </section>
+
+      <section id="projects" class="section">
+        <h3 class="section-title">Selected Projects</h3>
+
+        <div class="grid">
+          <div class="card">
+            <div class="card-head">
+              <strong>API Security Platform</strong>
+              <span class="muted">R&D · Softfreak</span>
+            </div>
+            <p>API management security platform integrated with MyData Korea; data collection agents (Nginx, eBPF) and analytics pipelines.</p>
+            <a class="link-btn" href="https://github.com/clientcli/API-Security-Platform" target="_blank" rel="noopener">View repo →</a>
+          </div>
+
+          <div class="card">
+            <div class="card-head">
+              <strong>Seccomp Profile Generator</strong>
+              <span class="muted">Research prototype</span>
+            </div>
+            <p>Prototype combining static & dynamic analysis to generate Seccomp profiles and reduce container attack surface.</p>
+          </div>
+
+          <div class="card">
+            <div class="card-head">
+              <strong>HIDS with LSTM</strong>
+              <span class="muted">Research · Soongsil</span>
+            </div>
+            <p>Host-based intrusion detection system for containers using LSTM and system-call contextual features.</p>
+          </div>
+
+          <div class="card">
+            <div class="card-head">
+              <strong>Signal-inspired E2E & XOR Phone</strong>
+              <span class="muted">Ginnovations</span>
+            </div>
+            <p>Designed secure E2E protocol and mobile apps; ELK monitoring; Mosquitto MQTT security patch.</p>
+          </div>
+        </div>
+      </section>
+
+      <section id="skills" class="section">
+        <h3 class="section-title">Skills & Tools</h3>
+        <div class="chips">
+          <span>Python</span><span>Golang</span><span>Kotlin</span><span>Java</span><span>Swift</span>
+          <span>Docker</span><span>Kubernetes</span><span>eBPF</span><span>Seccomp</span><span>Postgres</span>
+          <span>Kafka</span><span>AWS</span><span>Terraform</span>
+        </div>
+      </section>
+
+      <section id="contact" class="section">
+        <h3 class="section-title">Contact</h3>
+        <p>I'm based in Trento, Italy. For research or collaboration opportunities, feel free to email me:</p>
+        <p><a class="contact-mail" href="mailto:linhntt.unitn@gmail.com">linhntt.unitn@gmail.com</a></p>
+        <p class="muted">Also: <a href="https://github.com/clientcli" target="_blank" rel="noopener">GitHub</a> · <a href="https://www.linkedin.com/in/thi-thuy-linh-nguyen-5294431a0/" target="_blank" rel="noopener">LinkedIn</a></p>
+      </section>
+    </main>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
