@@ -29,23 +29,24 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am **Nguyen Thi Thuy Linh**, a backend developer and researcher in **cloud-native security** and **distributed systems**. 
-Currently, I am working as a **Junior Researcher** at the *University of Trento*, focusing on verifiable and privacy-preserving in microservices-based systems.
+I am **Nguyen Thi Thuy Linh**, a backend developer and researcher in **cloud-native security** and **distributed systems**.
+Currently, I am working as a **Junior Researcher** at the _University of Trento_, focusing on verifiable and privacy-preserving in microservices-based systems.
 
 Before that, I worked at **Softfreak** and **Ginnovations**, developing scalable backend systems and API management solutions.
 
 ### Research Interests
+
 - AI4SEC4AI
 - Distributed systems / security
-- Cloud Security 
+- Cloud Security
 - DevSecOps
 
 ### Education
-- **M.S. Information & Telecommunication Engineering**, Soongsil University (2022–2024)   
+
+- **M.S. Information & Telecommunication Engineering**, Soongsil University (2022–2024)
 - **B.S. Electronic & Telecommunication Engineering**, Hanoi University of Science & Technology (2016–2021)
 
-
 ### Contact
+
 📧 [linhntt.unitn@gmail.com](mailto:linhntt.unitn@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/thi-thuy-linh-nguyen-5294431a0/) | [GitHub](https://github.com/linhhntt)
-
