@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: Linh-CV.pdf # you can also use external links here
+cv_pdf: Linh_CV.pdf # you can also use external links here
 description: Watch out world, a tiny girl is coming through!
 toc:
   sidebar: left
