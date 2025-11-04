@@ -45,8 +45,8 @@ Outside of my 9-to-6 life, I am an enthusiastic traveller, who loves immersing m
 
 ### Education
 
-- **M.S. Information & Telecommunication Engineering**, Soongsil University (2022–2024)
-- **B.S. Electronic & Telecommunication Engineering**, Hanoi University of Science & Technology (2016–2021)
+- M.S. Information & Telecommunication, Soongsil University (2022–2024)
+- B.S. Electronic & Telecommunication, Hanoi University of Science & Technology (2016–2021)
 
 ### Contact
 
