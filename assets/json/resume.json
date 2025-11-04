@@ -1,36 +1,44 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "name": "Nguyen Thi Thuy Linh",
+    "image": "LinhNTT.jpg",
+    "email": "linhntt.unitn@gmail.com",
+    "birthday": "1998-12-30",
+    "languages": "English, Vietnamese, Korean, Italian"
   },
+  "education": [
+    {
+      "institution": "Soongsil University",
+      "location": "Seoul, South Korea",
+      "url": "https://www.soongsil.ac.kr/",
+      "area": "Information Telecommunication",
+      "studyType": "Master",
+      "startDate": "2022-03-01",
+      "endDate": "2024-02-18",
+      "score": "4.28/4.5",
+      "thesis": ["A Study on Attack Surface Reduction Through Refining Seccomp Security Profile for Containers"]
+    }, 
+    {
+      "institution": "Hanoi University of Science and Technology",
+      "location": "Hanoi, Vietnam",
+      "url": "https://www.hust.edu.vn/",
+      "area": "Electronic Telecommunication",
+      "studyType": "Engineer",
+      "startDate": "2016-09-01",
+      "endDate": "2021-08-25",
+      "score": "3.72/4.0",
+      "thesis": ["Data Hiding in Bit-plane Medical Image Using Chaos-based Steganography"]
+    }
+  ],
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "University of Trento",
+      "position": "Junior Researcher",
+      "url": "https://www.unitn.it",
+      "startDate": "2025-01-15",
+      "endDate": "2026-01-31",
+      "summary": "Researching at Security Laboratory (now 244, Povo1). While not a student at university, I associated with professors and continued to give research directions on campus.",
+      "highlights": ["Latest"]
     }
   ],
   "volunteer": [
@@ -43,19 +51,6 @@
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
     }
   ],
   "awards": [
