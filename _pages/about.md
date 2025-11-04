@@ -11,8 +11,8 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Current Location: Italy</p>
-    <p>Hometown: Vietnam</p>
+    <p>Current Location: 🇮🇹</p>
+    <p>Hometown: 🇻🇳</p>
     <p><a href="mailto:linhntt.unitn@gmail.com">linhntt.unitn@gmail.com</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -30,9 +30,11 @@ latest_posts:
 ---
 
 Hello, I am Nguyen Thi Thuy Linh, a backend developer and researcher in _cloud-native security_ and _distributed systems_.
-Currently, I am working as a Junior Researcher at the _University of Trento_, focusing on verifiable and privacy-preserving for microservices-based systems.
+Currently, I am working as a Junior Researcher @ University of Trento, focusing on verifiable and privacy-preserving for microservices-based systems.
 
-Outside the academic sphere, I have nearly five years of industry experience at Softfreak (South Korea) and Ginnovations (Vietnam), where I worked in various roles developing scalable backend infrastructures and API & system management solutions.
+Beyond academia, I have nearly five years of industry experience at Softfreak (South Korea) and Ginnovations (Vietnam), where I worked in various roles developing scalable backend infrastructures and API & system management solutions.
+
+Outside of my 9-to-6 life, I am an enthusiastic traveller, who loves immersing myself in local cuisines around the world. I enjoy planning my journeys, yet I also cherish the thrill of discovering the unexpected along the way!
 
 ### Research Interests
 
@@ -48,5 +50,5 @@ Outside the academic sphere, I have nearly five years of industry experience at 
 
 ### Contact
 
-📧 [linhntt.unitn@gmail.com](mailto:linhntt.unitn@gmail.com)  
+💌 [linhntt.unitn@gmail.com](mailto:linhntt.unitn@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/thi-thuy-linh-nguyen-5294431a0/) | [GitHub](https://github.com/linhhntt)
